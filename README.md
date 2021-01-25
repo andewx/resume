@@ -31,12 +31,27 @@ Communicated environmental impact thresholds to AF Combatant Command units provi
 
 - Deployed with 3 man team supporting Air Combat Command Launch and Recovery Forecasts for Reconnaissance aircraft, garnered United States Air Force, Pacific Air Forces, Weather, Non-Commissioned Officer of the Year Award.
 
+## EDUCATION
+
+### Bachelor of Science: Computer Science 
+#### University Of Illinois Springfield - Illinois
+- Graduated with 3.6 GPA 
+- Minored in Philosophy & Mathematics 
+- Graduated cum laude 
+- Coursework in Linear Algebraic Equations, Differential Equations, Advanced Statistics I 
+- Coursework System Architecture, Data Structures & Algorithms, Web Development 
+
 
 ## LANGUAGES
 
 - C++ 14, C, GoLang 	  
 - Scala, Haskell, Ruby, PHP, Javascript, Python, Objective-C 	  
 - C#, Swift, Ruby, Haskell, Julia, R, Matlab 	  
+
+## CERTIFICATIONS
+
+#### 2019-01 - AWS Certified Cloud Practicioner
+#### 2019-06 - Neo4J 4.1 Certification
 
 ## INTERESTS
 
