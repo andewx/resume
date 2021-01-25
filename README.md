@@ -5,7 +5,7 @@
 ### Phone: +8210-7412-3038
 ### Email: brian.michael.anderson@gmail.com
 
-Enthusiastic beginner engineer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Looking for an opportunity to make entry into the career field and learn from others. Clear understanding of Software Development Lifecycle and continuous improvement processes. Knowledgeable across a broad range of languages, with a preference to more system oriented implementations, willing to fully learn and grow in whatever environment is given. Motivated to learn, grow and excel in the Software Engineering industry. 
+Enthusiastic beginner engineer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Looking for an opportunity to make entry into the career field and learn from others. Clear understanding of Software Development Lifecycle and continuous improvement processes. Knowledgeable across a broad range of languages, with a preference to more system oriented implementations, willing to fully learn and grow in whatever environment is given.
 
 ## SKILLS
 
