@@ -7,7 +7,7 @@
 
 Capable engineer eager to improve software with attention to detail, performance/architectural knowledge, and excellent organizational skills. Clear understanding of Software Development Lifecycle and continuous improvement processes. Knowledgeable across a broad range of languages, with a preference for more system oriented implementations/ backend architecture, willing to fully learn and grow in whatever environment is given. My work experience is with the United States Air Force for 8 years. However I have been committed to learning and staying upto date with latest development practices and methodologies. 
 
-## SKILLS
+## ``SKILLS``
 
 - Project management processes 	  
 - Interpersonal Communication 	  
@@ -16,7 +16,7 @@ Capable engineer eager to improve software with attention to detail, performance
 - Web-based software engineering 	  
 - Fluid-Dynamics/3D API Programming
 
-## WORK HISTORY
+## ``WORK HISTORY``
 
 #### 2020-Current. Meteorologist
 ##### United States Air Force, Andersen AFB, GU
@@ -31,7 +31,7 @@ Communicated environmental impact thresholds to AF Combatant Command units provi
 
 - Deployed with 3 man team supporting Air Combat Command Launch and Recovery Forecasts for Reconnaissance aircraft, garnered United States Air Force, Pacific Air Forces, Weather, Non-Commissioned Officer of the Year Award.
 
-## EDUCATION
+## ``EDUCATION``
 
 ### Bachelor of Science: Computer Science 
 #### University Of Illinois Springfield - Illinois
@@ -42,23 +42,23 @@ Communicated environmental impact thresholds to AF Combatant Command units provi
 - Coursework System Architecture, Data Structures & Algorithms, Web Development 
 
 
-## LANGUAGES
+## ``LANGUAGES``
 
 - C++ 14, Java, GoLang 	  
 - Scala, Haskell, Ruby, PHP, Javascript, Python, Objective-C 	  
 - C#, Swift, Ruby, Haskell, Julia, R, Matlab 	  
 
-## BUILD SYSTEMS
+## ``BUILD SYSTEMS``
 - ``Godel - Go Builds``
 -  Gradle Build Systems for Java/C++
 -  CMake - C/C++
 
-## CERTIFICATIONS
+## ``CERTIFICATIONS``
 
 #### 2019-01 - AWS Certified Cloud Practicioner
 #### 2019-06 - Neo4J 4.1 Certification
 
-## INTERESTS
+## ``INTERESTS``
 
 - Fluid Dynamics Smoothed Particle Hydrodynamics, Grid Solvers, FLIP Hybrid 
 - Real-Time Rendering (METAL API, OpenGL API) 
