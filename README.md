@@ -5,7 +5,7 @@
 ### Phone: +8210-7412-3038
 ### Email: brian.michael.anderson@gmail.com
 
-Enthusiastic beginner engineer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Looking for an opportunity to make entry into the career field and learn from others. Clear understanding of Software Development Lifecycle and continuous improvement processes. Knowledgeable across a broad range of languages, with a preference to more system oriented implementations, willing to fully learn and grow in whatever environment is given.
+Capable engineer eager to improve software with attention to detail, performance/architectural knowledge, and excellent organizational skills. Clear understanding of Software Development Lifecycle and continuous improvement processes. Knowledgeable across a broad range of languages, with a preference for more system oriented implementations/ backend architecture, willing to fully learn and grow in whatever environment is given.
 
 ## SKILLS
 
@@ -14,7 +14,7 @@ Enthusiastic beginner engineer eager to contribute to team success through hard 
 - Written Communication 	  
 - Program testing software 	  
 - Web-based software engineering 	  
-
+- Fluid-Dynamics/3D API Programming
 
 ## WORK HISTORY
 
@@ -44,9 +44,14 @@ Communicated environmental impact thresholds to AF Combatant Command units provi
 
 ## LANGUAGES
 
-- C++ 14, C, GoLang 	  
+- C++ 14, Java, GoLang 	  
 - Scala, Haskell, Ruby, PHP, Javascript, Python, Objective-C 	  
 - C#, Swift, Ruby, Haskell, Julia, R, Matlab 	  
+
+## BUILD SYSTEMS
+- ``Godel - Go Builds``
+-  Gradle Build Systems for Java/C++
+-  CMake - C/C++
 
 ## CERTIFICATIONS
 
@@ -59,3 +64,5 @@ Communicated environmental impact thresholds to AF Combatant Command units provi
 - Real-Time Rendering (METAL API, OpenGL API) 
 - Data Parallel GPU Execution (HLSL Compute / METAL Compute) 
 - Ray Traced Physically Accurate Rendering (PBRT , Mitsuba ) 
+- Core webframework development / databases / framework architecture
+- Building Go Frameworks
