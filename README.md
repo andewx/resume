@@ -17,18 +17,19 @@ Capable engineer eager to work and be a part of your team, has adequate performa
 
 ## ``WORK HISTORY``
 
-#### 2020-Current. Meteorologist
-##### United States Air Force, Andersen AFB, GU
+### 2012-Current. Meteorologist
+#### United States Air Force
+#### (Mildenhall, UK | Kapaun, DE | Yigo, GU | Osan, KR | St. Lous, MO )
 
 - Prepared a variety of different written communications, reports and documents to ensure smooth operations.
-Ensured functionality of $500K Automated Airfield Sensors delegating hot-fix solutions for malfunctions
+Ensured functionality of $2.9M Automated Airfield Sensors delegating hot-fix solutions for malfunctions
 
-- Lead a 5 member team during 24/7 operations ensuring continuous protection of $6.1B in DoD assets
+- Leads 11 member team during 24/7 operations ensuring continuous protection of $6.1B in DoD assets
 Communicated environmental impact thresholds to AF Combatant Command units providing real-time NK ISR capabilities.
 
-- Supported multi-national coalition with 3 partner nations showcasing USAF Weather field capabilities while leading 3 member team during austere deployment.
+- Supported multi-national coalitions with 12 partner nations showcasing USAF Weather field capabilities in PACAF/USAFE across multiple deployments
 
-- Deployed with 3 man team supporting Air Combat Command Launch and Recovery Forecasts for Reconnaissance aircraft, garnered United States Air Force, Pacific Air Forces, Weather, Non-Commissioned Officer of the Year Award.
+- Operations weather support across broad range of military capabilities and applications including, CAS, ISR, Transport, Air-To-Air, Air-To-Surface, Maritime, and Mission operations planning with direct support to top-level commanders. 
 
 ## ``EDUCATION``
 
