@@ -64,10 +64,7 @@ Communicated environmental impact thresholds to AF Combatant Command units provi
 #### 2020-06 - Docker
 
 ## ``INTERESTS``
-
-- Fluid Dynamics Smoothed Particle Hydrodynamics, Grid Solvers, FLIP Hybrid 
-- Real-Time Rendering (METAL API, OpenGL API) 
-- Data Parallel GPU Execution (HLSL Compute / METAL Compute) 
-- Ray Traced Physically Accurate Rendering (PBRT , Mitsuba ) 
-- Core webframework development / databases / framework architecture
-- Building Go Frameworks
+- Databases/Network Architecture
+- GPU Computation
+- Backend (REST, Micro, GraphQL Single Point)
+- Frontend (REACT, UI/UX)
