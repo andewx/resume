@@ -5,16 +5,15 @@
 ### Phone: +8210-7412-3038
 ### Email: brian.michael.anderson@gmail.com
 
-Capable engineer eager to improve software with attention to detail, performance/architectural knowledge, and excellent organizational skills. Clear understanding of Software Development Lifecycle and continuous improvement processes. Knowledgeable across a broad range of languages, with a preference for more system oriented implementations/ backend architecture, willing to fully learn and grow in whatever environment is given. My work experience is with the United States Air Force for 8 years. However I have been committed to learning and staying upto date with latest development practices and methodologies. 
+Capable engineer eager to work and be a part of your team, has adequate performance/architectural knowledge, and excellent organizational skills. Clear understanding of Software Development Lifecycle and build management tools. Knowledgeable across a broad range of languages, with a preference for more system oriented imperative languages but a tacit understanding of functional languages such as Javascript/Haskell. My work experience is with the United States Air Force for 9 years as an Enlisted Meteorologist while pursuing my undergraduate CS degree. I have been stationed in the United Kingdom, Guam, Japan, Korea & Germany and am currently serving as an AD TSgt. 
 
 ## ``SKILLS``
-
-- Project management processes 	  
-- Interpersonal Communication 	  
-- Written Communication 	  
-- Program testing software 	  
-- Web-based software engineering 	  
-- Fluid-Dynamics/3D API Programming
+- VCS Project Management  
+- Requirements Verification/Validation
+- Interpersonal Communication / Supervisory Skills 
+- Docker/Kubernetes
+- GNU Toolchains & (Gradle)
+- Languages/Compilers/Parsing Grammars
 
 ## ``WORK HISTORY``
 
@@ -39,24 +38,30 @@ Communicated environmental impact thresholds to AF Combatant Command units provi
 - Minored in Philosophy & Mathematics 
 - Graduated cum laude 
 - Coursework in Linear Algebraic Equations, Differential Equations, Advanced Statistics I 
-- Coursework System Architecture, Data Structures & Algorithms, Web Development 
+- Coursework System Architecture, Data Structures & Algorithms, Parallel Computation
+
+### Masters of Science: Computer Science
+#### University of Washington -  St Louis
+- Database Clustering
 
 
 ## ``LANGUAGES``
 
-- C++ 14, Java, GoLang 	  
-- Scala, Haskell, Ruby, PHP, Javascript, Python, Objective-C 	  
-- C#, Swift, Ruby, Haskell, Julia, R, Matlab 	  
+- C++ 17, Java, GoLang, Rust
+- NodeJS, Javascript(Type), Scala
+- C#, Swift, Ruby, Haskell 	  
 
-## ``BUILD SYSTEMS``
-- ``Godel - Go Builds``
--  Gradle Build Systems for Java/C++
--  CMake - C/C++
+## ``BUILD MANAGEMENT``
+-  Gradle
+-  GNU Toolchain
 
 ## ``CERTIFICATIONS``
 
 #### 2019-01 - AWS Certified Cloud Practicioner
 #### 2019-06 - Neo4J 4.1 Certification
+#### 2019-05 - Gradle
+#### 2020-05 - Kubernetes
+#### 2020-06 - Docker
 
 ## ``INTERESTS``
 
