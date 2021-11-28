@@ -5,7 +5,7 @@
 ### Phone: +49 1522-986-3881
 ### Email: brian.michael.anderson@gmail.com
 
-Capable engineer eager to work and be a part of your team, has adequate performance/architectural knowledge, and excellent organizational skills. Clear understanding of Software Development Lifecycle and build management tools. Knowledgeable across a broad range of languages, with a preference for more system oriented imperative languages but a tacit understanding of functional languages such as Javascript/Haskell. My work experience is with the United States Air Force for 9 years as an Enlisted Meteorologist while pursuing my undergraduate CS degree. I have been stationed in the United Kingdom, Guam, Japan, Korea & Germany and am currently serving as an Active Duty Non-Commissioned Officer. 
+Capable engineer eager to work and be a part of your team, has adequate performance/architectural knowledge, and excellent organizational skills. Clear understanding of Software Development Lifecycle and build management tools. Knowledgeable across a broad range of languages, with a preference for more systems oriented languages. My work experience is with the United States Air Force for 10 years as an Enlisted Meteorologist while pursuing my undergraduate CS degree. I have been stationed in the United Kingdom, Guam, Japan, Korea & Germany and am currently serving as an Active Duty Non-Commissioned Officer. 
 
 ## ``SKILLS``
 - VCS Project Management  
@@ -38,11 +38,9 @@ Communicated environmental impact thresholds to AF Combatant Command units provi
 ### Bachelor of Science: Computer Science 
 #### University Of Illinois Springfield - Illinois
 - Graduated with 3.7 GPA from University 
-- Minored in Philosophy & Mathematics 
 - Graduated Cum laude 
 - Coursework in Linear Algebraic Equations, Differential Equations, Advanced Statistics I 
-- Coursework System Architecture, Data Structures & Algorithms, Parallel Computation
-
+- Coursework Systems Architecture, Data Structures & Algorithms, Parallel Computation
 
 ## ``LANGUAGES``
 
