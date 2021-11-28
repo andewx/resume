@@ -32,42 +32,35 @@ Communicated environmental impact thresholds to AF Combatant Command units provi
 - Operations weather support across broad range of military capabilities and applications including, CAS, ISR, Transport, Air-To-Air, Air-To-Surface, Maritime, and Mission operations planning with direct support to top-level commanders. 
 
 - Manages deployments for 95 Active Duty military members, coordinates deployment of members and logistical assets to high-threat Areas of Responsibilty in-support of 3 Theater Combatant Commands along with member training, commander requirements, and logistical processing.
-- 
+
 ## ``EDUCATION``
 
 ### Bachelor of Science: Computer Science 
 #### University Of Illinois Springfield - Illinois
-- Graduated with 3.6 GPA 
+- Graduated with 3.7 GPA from University 
 - Minored in Philosophy & Mathematics 
-- Graduated cum laude 
+- Graduated Cum laude 
 - Coursework in Linear Algebraic Equations, Differential Equations, Advanced Statistics I 
 - Coursework System Architecture, Data Structures & Algorithms, Parallel Computation
-
-### Masters of Science: Computer Science
-#### University of Washington -  St Louis
-- Database Clustering
 
 
 ## ``LANGUAGES``
 
-- C++ 17, Java, GoLang, Rust
-- NodeJS, Javascript(Type), Scala
-- C#, Swift, Ruby, Haskell 	  
+``Advanced``
+- C++ 17, Java, GoLang, C
+``Intermediate``
+- Swift, Objective-C, JS, PHP, Python
+``Familiar``
+- Haskell, Rust, ASM
+
 
 ## ``BUILD MANAGEMENT``
 -  Gradle
 -  GNU Toolchain
 
-## ``CERTIFICATIONS``
-
-#### 2019-01 - AWS Certified Cloud Practicioner
-#### 2019-06 - Neo4J 4.1 Certification
-#### 2019-05 - Gradle
-#### 2020-05 - Kubernetes
-#### 2020-06 - Docker
 
 ## ``INTERESTS``
-- Databases/Network Architecture
-- GPU Computation
-- Backend (REST, Micro, GraphQL Single Point)
-- Frontend (REACT, UI/UX)
+- GPU Computation/Simulation (SPH/FLIP FLuids / Path-Tracing / Numerical)
+- Web Frameworks / Systems Architecture
+- Languages & Services
+- Neural Network Modeling
