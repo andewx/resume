@@ -2,10 +2,10 @@
 ## Software Engineer / USAF Meteorologist
 
 ### Location: Pyeongtaek-si, Gyeonnggi-do
-### Phone: +8210-7412-3038
+### Phone: +49 1522-986-3881
 ### Email: brian.michael.anderson@gmail.com
 
-Capable engineer eager to work and be a part of your team, has adequate performance/architectural knowledge, and excellent organizational skills. Clear understanding of Software Development Lifecycle and build management tools. Knowledgeable across a broad range of languages, with a preference for more system oriented imperative languages but a tacit understanding of functional languages such as Javascript/Haskell. My work experience is with the United States Air Force for 9 years as an Enlisted Meteorologist while pursuing my undergraduate CS degree. I have been stationed in the United Kingdom, Guam, Japan, Korea & Germany and am currently serving as an AD TSgt. 
+Capable engineer eager to work and be a part of your team, has adequate performance/architectural knowledge, and excellent organizational skills. Clear understanding of Software Development Lifecycle and build management tools. Knowledgeable across a broad range of languages, with a preference for more system oriented imperative languages but a tacit understanding of functional languages such as Javascript/Haskell. My work experience is with the United States Air Force for 9 years as an Enlisted Meteorologist while pursuing my undergraduate CS degree. I have been stationed in the United Kingdom, Guam, Japan, Korea & Germany and am currently serving as an Active Duty Non-Commissioned Officer. 
 
 ## ``SKILLS``
 - VCS Project Management  
@@ -31,6 +31,8 @@ Communicated environmental impact thresholds to AF Combatant Command units provi
 
 - Operations weather support across broad range of military capabilities and applications including, CAS, ISR, Transport, Air-To-Air, Air-To-Surface, Maritime, and Mission operations planning with direct support to top-level commanders. 
 
+- Manages deployments for 95 Active Duty military members, coordinates deployment of members and logistical assets to high-threat Areas of Responsibilty in-support of 3 Theater Combatant Commands along with member training, commander requirements, and logistical processing.
+- 
 ## ``EDUCATION``
 
 ### Bachelor of Science: Computer Science 
