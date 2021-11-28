@@ -10,10 +10,11 @@ Capable engineer eager to work and be a part of your team, has adequate performa
 ## ``SKILLS``
 - VCS Project Management  
 - Requirements Verification/Validation
-- Interpersonal Communication / Supervisory Skills 
-- Docker/Kubernetes
-- GNU Toolchains & (Gradle)
+- Supervisory Skills / Team Management
+- GNU Toolchains & Gradle
 - Languages/Compilers/Parsing Grammars
+- Polymorphic GoLang - API modularity
+- Functional Java - See xyz.io
 
 ## ``WORK HISTORY``
 
