@@ -46,10 +46,13 @@ Communicated environmental impact thresholds to AF Combatant Command units provi
 ## ``LANGUAGES``
 
 ``Advanced``
+
 - C++ 17, Java, GoLang, C
 ``Intermediate``
+
 - Swift, Objective-C, JS, PHP, Python
 ``Familiar``
+
 - Haskell, Rust, ASM
 
 
