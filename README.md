@@ -47,7 +47,7 @@ Communicated environmental impact thresholds to AF Combatant Command units provi
 
 ####``Advanced``
 
-- C++ 17, Java, GoLang, C
+- Golang, Java, C++, C
 ####``Intermediate``
 
 - Swift, Objective-C, JS, PHP, Python
@@ -63,6 +63,6 @@ Communicated environmental impact thresholds to AF Combatant Command units provi
 
 ## ``INTERESTS``
 - GPU Computation/Simulation (SPH/FLIP FLuids / Path-Tracing / Numerical)
-- Web Frameworks / Systems Architecture
+- Distributed Systems / Systems Architecture
 - Languages & Services
 - Neural Network Modeling
