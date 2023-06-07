@@ -13,7 +13,7 @@ Computer science graduate student with proven problem solving, organizational an
  - Machine Learning / Neural Networks
  - Advance Statistics / Linear Algebra / Calculus
  - Meteoroligical Datasets / Visual Weather Functional Analysis
- - **Important** Flexible and dynamic. With the right resources I can learn almost anything.
+ - **Important** Flexible and dynamic learner, was able to succeed in Advanced Statistics UIS 420 with waiver for Calculus III.
 
 ## ``WORK HISTORY``
 
