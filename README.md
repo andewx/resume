@@ -45,7 +45,7 @@ Communicated environmental impact thresholds to AF Combatant Command units provi
 ### Masters of Science: Computer Science
 #### University of Illinois Springfield
 - Course work in Machine Learning and Neural Networks
-- Aspiring research student in application of machine learning to ODE/PDE equations.
+- Aspiring research student
 
 ## ``PROJECTS``
 
