@@ -39,7 +39,7 @@ Communicated environmental impact thresholds to AF Combatant Command units provi
 #### University Of Illinois Springfield - Illinois
 - Graduated with 3.7 GPA from University 
 - Graduated Cum laude 
-- Coursework in Linear Algebraic Equations, Differential Equations, Advanced Statistics I 
+- Coursework in Linear Algebraic Equations, Advanced Statistics I 
 - Coursework Systems Architecture, Data Structures & Algorithms, Parallel Computation
 
 ### Masters of Science: Computer Science
@@ -68,7 +68,7 @@ All projects are independently pursued and self-directed unless
 
 **XYZ**
 
-> Undergraduate software capstone project. Using Java with "Gradle" develped highly distributable REST API binary with distributed in-memory database. Entire project utilized no major dependencies and built in < 10MB and demonstrated high throughput capabilities. 
+> Undergraduate software capstone project. Using Java with "Gradle" developed highly distributable REST API binary with distributed in-memory database. Entire project utilized no major dependencies and built in < 10MB and demonstrated high throughput capabilities. 
 
 ## ``LANGUAGES``
 Have experience writing my own fully executable statically compiled language across multiple platforms. However, these are my preferred languages:
@@ -79,4 +79,4 @@ Have experience writing my own fully executable statically compiled language acr
 - GPU Computation/Simulation (SPH/FLIP FLuids / Path-Tracing / Numerical)
 - Distributed Systems / Systems Architecture
 - Languages & Services
-- Neural Network Modeling
+- Neural Network Solvers
