@@ -1,11 +1,11 @@
 # Brian M. Anderson
-## Software Engineer / USAF Meteorologist
+## University of Illinois Graduate Student / United States Air Force Active Duty
 
-### Location: Pyeongtaek-si, Gyeonnggi-do
-### Phone: +49 1522-986-3881
+### Location: Fairbanks, Alaska
+### Phone: +1 443 978-XXXX (Email for Number)
 ### Email: brian.michael.anderson@gmail.com
 
-Capable engineer eager to work and be a part of your team, has adequate performance/architectural knowledge, and excellent organizational skills. Clear understanding of Software Development Lifecycle and build management tools. Knowledgeable across a broad range of languages, with a preference for more systems oriented languages. My work experience is with the United States Air Force for 10 years as an Enlisted Meteorologist while pursuing my undergraduate CS degree. I have been stationed in the United Kingdom, Guam, Japan, Korea & Germany and am currently serving as an Active Duty Non-Commissioned Officer. 
+Capable engineer eager to work and be a part of your team, has adequate performance/architectural knowledge, and excellent organizational skills. Clear understanding of Software Development Lifecycle and build management tools. Knowledgeable across a broad range of languages, with a preference for more systems oriented languages. My work experience is with the United States Air Force for 10 years as an Enlisted Meteorologist while pursuing my graduate CS degree. I have been stationed in the United Kingdom, Guam, Japan, Korea & Germany and am currently serving as an Active Duty Non-Commissioned Officer. 
 
 ## ``SKILLS``
 - VCS Project Management  
@@ -42,6 +42,23 @@ Communicated environmental impact thresholds to AF Combatant Command units provi
 - Graduated Cum laude 
 - Coursework in Linear Algebraic Equations, Differential Equations, Advanced Statistics I 
 - Coursework Systems Architecture, Data Structures & Algorithms, Parallel Computation
+
+
+## ``PROJECTS``
+**Leopard Language**
+> Evolution of the GoLang high level language specification with static compilation and JIT with LLVM toolchain support, fully supports C, C++, Objective-C integration with Clang compatibility. https://leolang.org
+
+**Dieselvlk**
+> GoLang integration of Vulkan C API with higher level rendering engine capabilities. Designed to allow unification of compute kernel architecture with Vulkan Graphics API, helpful on systems which have deprecated or limited OpenGL support.
+
+**DieselFluid**
+> Golang Computational Fluid Dynamics solver API, provides solver interfaces for both Grid, SPH, and Hybrid methods. Supports compute to render pipeline for fluid compute solvers.
+
+**DieselAtm**
+> Ray based atmospheric effects simulation, computes lightpath scattering equations for a spectral based light source and simulates realistic and composable atmospheres.
+
+
+
 
 ## ``LANGUAGES``
 
