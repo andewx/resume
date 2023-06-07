@@ -1,20 +1,12 @@
 # Brian M. Anderson
 ## University of Illinois Graduate Student / United States Air Force Active Duty
 
-### Location: Fairbanks, Alaska
+### Location: Kaiserslautern, Germany
 ### Phone: +1 443 978-XXXX (Email for Number)
 ### Email: brian.michael.anderson@gmail.com
 
-Capable engineer eager to work and be a part of your team, has adequate performance/architectural knowledge, and excellent organizational skills. Clear understanding of Software Development Lifecycle and build management tools. Knowledgeable across a broad range of languages, with a preference for more systems oriented languages. My work experience is with the United States Air Force for 10 years as an Enlisted Meteorologist while pursuing my graduate CS degree. I have been stationed in the United Kingdom, Guam, Japan, Korea & Germany and am currently serving as an Active Duty Non-Commissioned Officer. 
+Computer science graduate student with proven problem solving, organizational and leadership skills. While I've spent the majority of my career in the profession of arms, as a operations and environmental intelligence non-commissioned officer in the United States Air Forces, I have dualy committed myself to being both a scholar and warrior and embraced continuous development and personal growth in those areas. From an academic standpoint I am ready for the advanced mathematics required for research and for state of the art applications in Computer Science with foundations in statistical methods in linear algebraic systems. My service in active duty is one of extreme committment the Air Force has resulted in recieving distinguished titles such as NCO of the year with multiple packages considered at the Air Force Level which puts me far ahead of my peers. I am ready for 
 
-## ``SKILLS``
-- VCS Project Management  
-- Requirements Verification/Validation
-- Supervisory Skills / Team Management
-- GNU Toolchains & Gradle
-- Languages/Compilers/Parsing Grammars
-- Polymorphic GoLang - API modularity
-- Functional Java - See xyz.io
 
 ## ``WORK HISTORY``
 
