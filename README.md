@@ -5,8 +5,15 @@
 ### Phone: +1 443 978-XXXX (Email for Number)
 ### Email: brian.michael.anderson@gmail.com
 
-Computer science graduate student with proven problem solving, organizational and leadership skills. While I've spent the majority of my career in the profession of arms, as a operations and environmental intelligence non-commissioned officer in the United States Air Forces, I have dualy committed myself to being both a scholar and warrior and embraced continuous development and personal growth in those areas. From an academic standpoint I am ready for the advanced mathematics required for research and for state of the art applications in Computer Science with foundations in statistical methods in linear algebraic systems. My service in active duty is one of extreme committment the Air Force has resulted in recieving distinguished titles such as NCO of the year with multiple packages considered at the Air Force Level which puts me far ahead of my peers. I am ready for 
+Computer science graduate student with proven problem solving, organizational and leadership skills. While I've spent the majority of my career in the profession of arms as a Non-Commissioned Officer, I have dualy committed myself to being both a scholar and warrior. With that I have embraced continuous development and personal growth in all facets of life with the goal of excellence in all that I do. From an academic standpoint I am ready for the advanced mathematics required for research and for state of the art applications in Computer Science with foundations in statistical methods in linear algebraic systems. My service in active duty is one of extreme committment to the Air Force and has resulted in recieving distinguished titles such as NCO of the year with multiple packages considered at the Air Force Level which puts me far ahead of my peers. 
 
+## `SKILLS`
+ - Parallel/Distributed Computing (OpenMP)
+ - Low-Level Machine Code / Systems (LLVM IR)
+ - Machine Learning / Neural Networks
+ - Advance Statistics / Linear Algebra / Calculus
+ - Meteoroligical Datasets / Visual Weather Functional Analysis
+ - **Important** Flexible and dynamic. With the right resources I can learn almost anything.
 
 ## ``WORK HISTORY``
 
