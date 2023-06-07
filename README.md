@@ -43,40 +43,38 @@ Communicated environmental impact thresholds to AF Combatant Command units provi
 - Coursework in Linear Algebraic Equations, Differential Equations, Advanced Statistics I 
 - Coursework Systems Architecture, Data Structures & Algorithms, Parallel Computation
 
+### Masters of Science: Computer Science
+#### University of Illinois Springfield
+- Course work in Machine Learning and Neural Networks
+- Aspiring research student in application of machine learning to ODE/PDE equations.
 
 ## ``PROJECTS``
-**Leopard Language**
+
+All projects are independently pursued and self-directed unless
+
+**Leopard**
 > Evolution of the GoLang high level language specification with static compilation and JIT with LLVM toolchain support, fully supports C, C++, Objective-C integration with Clang compatibility. https://leolang.org
 
-**Dieselvlk**
-> GoLang integration of Vulkan C API with higher level rendering engine capabilities. Designed to allow unification of compute kernel architecture with Vulkan Graphics API, helpful on systems which have deprecated or limited OpenGL support.
+**Vlk**
+> GoLang integration of Vulkan C API with higher level rendering engine capabilities. Designed to allow unification of compute kernel architecture with Vulkan Graphics API, helpful on systems which have deprecated or limited OpenGL support (mac os x).
 
-**DieselFluid**
+**Fluidity**
 > Golang Computational Fluid Dynamics solver API, provides solver interfaces for both Grid, SPH, and Hybrid methods. Supports compute to render pipeline for fluid compute solvers.
 
-**DieselAtm**
+**Axm**
 > Ray based atmospheric effects simulation, computes lightpath scattering equations for a spectral based light source and simulates realistic and composable atmospheres.
 
+**Lever**
+> Packaging and versioning system for Leo Language.
 
+**XYZ**
 
+> Undergraduate software capstone project. Using Java with "Gradle" develped highly distributable REST API binary with distributed in-memory database. Entire project utilized no major dependencies and built in < 10MB and demonstrated high throughput capabilities. 
 
 ## ``LANGUAGES``
+Have experience writing my own fully executable statically compiled language across multiple platforms. However, these are my preferred languages:
 
-####``Advanced``
-
-- Golang, Java, C++, C
-####``Intermediate``
-
-- Swift, Objective-C, JS, PHP, Python
-####``Familiar``
-
-- Haskell, Rust, ASM
-
-
-## ``BUILD MANAGEMENT``
--  Gradle
--  GNU Toolchain
-
+- Golang, Java, Swift, C++, C
 
 ## ``INTERESTS``
 - GPU Computation/Simulation (SPH/FLIP FLuids / Path-Tracing / Numerical)
